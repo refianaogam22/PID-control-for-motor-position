@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=D5 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D6 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Added Component: Designator=J3(SAMTEC_TS-104-G-AA)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-104-G-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J3-01
+Added Pin To Net: NetName=GND Pin=J3-02
+Added Pin To Net: NetName=SCL Pin=J3-03
+Added Pin To Net: NetName=SDA Pin=J3-04
+Added Member To Class: ClassName=MotorPID Member=Component J3 TS-104-G-AA

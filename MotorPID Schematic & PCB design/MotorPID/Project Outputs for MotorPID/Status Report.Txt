@@ -1,0 +1,40 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [MotorPID.PrjPcb]
+   Generated File[MotorPID.GTL]
+   Generated File[MotorPID.GBL]
+   Generated File[MotorPID.GPB]
+   Generated File[MotorPID.GPT]
+   Generated File[MotorPID.GTO]
+   Generated File[MotorPID.GBO]
+   Generated File[MotorPID.GTS]
+   Generated File[MotorPID.GBS]
+   Generated File[MotorPID.GTP]
+   Generated File[MotorPID.GBP]
+   Generated File[MotorPID.GKO]
+   Generated File[MotorPID.GM1]
+   Generated File[MotorPID.GM2]
+   Generated File[MotorPID.GM5]
+   Generated File[MotorPID.GM11]
+   Generated File[MotorPID.GM12]
+   Generated File[MotorPID.GM13]
+   Generated File[MotorPID.GM15]
+   Generated File[MotorPID.GM16]
+   Generated File[MotorPID.GM19]
+   Generated File[MotorPID.GM20]
+   Generated File[MotorPID.GM21]
+   Generated File[MotorPID.GM23]
+   Generated File[MotorPID.GM24]
+   Generated File[MotorPID.GM]
+   Generated File[MotorPID.GBR1]
+   Generated File[MotorPID.GBR2]
+   Generated File[MotorPID.GD1]
+   Generated File[MotorPID.GG1]
+   Generated File[MotorPID.EXTREP]
+   Generated File[MotorPID.REP]
+
+
+Files Generated   : 31
+Documents Printed : 0
+
+Finished Output Generation At 6:56:29 PM On 12/27/2024

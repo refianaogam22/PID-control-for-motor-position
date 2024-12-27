@@ -1,0 +1,4 @@
+Remove Pin=J3-03 From Net=SCL
+Remove Pin=J3-04 From Net=SDA
+Change Component Footprint: Designator=D5 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
+Change Component Footprint: Designator=D6 Old Footprint=WL-SMCW_1206_150120xx75000 New Footprint=WL-SMCW_1206_150120xx75000
